@@ -1,0 +1,177 @@
+@media screen and (max-width:700px) {
+    .certified-box {
+        width: 100%;
+    }
+
+    .certified-icon i{
+        padding: 5px 15px;
+        font-size: 22px;
+     }
+
+     .popular-inner-2 ul{
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+     }
+
+     .popular-inner-1 h2{
+        font-size: 53px;
+     }
+
+     .popular-inner-2 li{
+        padding: 12px 0px;
+        font-size: 16px;
+     }
+
+     #cer-2{
+        margin: 0px 0px 20px 0px;
+     }
+
+     .certified-box{
+       margin-bottom: 20px;
+     }
+
+     .carousel-item{
+        display: flex;
+        flex-direction: column;
+        
+     }
+
+     .marqu-up h4{
+      font-size: 30px;
+     }
+
+     /* footer */
+
+     .footer-bottom1 ul{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+     }
+
+     .footer-bottom2 {
+      display: flex;
+      justify-content: center;
+     }
+   
+     .foot-main{
+      display: flex;
+      flex-wrap: wrap;
+      
+     }
+
+     .foot-main{
+      background-size: cover;
+     }
+
+
+     .footer-btn{
+      display: block;
+      display: flex;
+      justify-content: center;
+     }
+
+     .footer-num{
+      display: flex;
+      justify-content: center;
+      margin-top: 10px;
+     }
+
+     .up-foot-1 h6{
+      font-size: 21px;
+      text-align: center;
+      margin-bottom: 20px;
+     }
+
+     .last-box-1 a{
+      display: flex;
+      justify-content: center;
+     }
+
+     .last-box-1 p{
+      display: flex;
+      justify-content: center;
+      text-align: center;
+      padding: 0;
+     }
+
+     .last-box-1 div{
+      display: flex;
+      justify-content: center;
+     }
+
+     .last-box-2 span{
+      display: flex;
+      justify-content: center;
+     }
+
+     .last-box-2 ul li{
+      display: flex;
+      justify-content: center;
+     }
+
+     span.last-spa1, .last-spa, .last-ema{
+      display: flex;
+      justify-content: center;
+      text-align: center;
+     }
+
+     .last-box-3 .input-box{
+      display: flex;
+      justify-content: center;
+    
+     }
+
+     span.last-spa2{
+      text-align: center;
+      display: flex;
+      justify-content: center;
+     }
+
+     .last-box-1,.last-box-2,.last-box-4{
+      margin-bottom: 15px;
+     }
+
+
+     /* testimonial */
+
+     .testi-two-page {
+      padding: 0px 20px;
+      margin-bottom: 20px;
+     }
+
+     .brand-img-inner{
+      margin-bottom: 30px;
+     }
+
+/* article sec */
+
+     .article-heading {
+      display: flex;
+      flex-direction: column;
+     }
+
+     .article-heading h2{
+      text-align: center;
+     }
+
+     .article-heading-2 {
+      display: flex;
+      justify-content: center;
+      text-align: center;
+     }
+
+     .article-last {
+      display: flex;
+      flex-direction: column;
+     }
+
+
+     .input-box form{
+      width: 100%;
+     }
+
+     input{
+      width: 70%;
+     }
+}
